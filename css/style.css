@@ -545,6 +545,11 @@
 
 /*** Service End ***/
 
+.service-img-fluid{
+    max-width:100%;
+    height:170px;
+}
+
 /*** About Start ***/
 .about .about-img {
     position: relative;
