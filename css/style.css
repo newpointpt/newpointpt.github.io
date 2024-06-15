@@ -466,7 +466,6 @@
     flex-direction: column;
     justify-content: center;
     line-height: 1; /* Ensure no extra spacing */
-    text-align: left; /* Left justify the text */
 }
 
 .brand-text {
