@@ -1183,6 +1183,11 @@
     transition: 0.5s;
 }
 
+.center-content {
+    align-items: center; /* Centers items horizontally */
+    text-align: center; /* Centers text within each item */
+}
+
 .footer .footer-item p {
     line-height: 35px;
 }
