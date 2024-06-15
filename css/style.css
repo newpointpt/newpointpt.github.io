@@ -450,6 +450,20 @@
 }
 /*** Single Page Hero Header End ***/
 
+.brand-container {
+    display: flex;
+    align-items: center; /* vertically center the items */
+}
+
+/* Optional: styling for the image and text */
+.brand-logo {
+    margin-right: 10px; /* space between the image and the text */
+}
+
+.brand-text {
+    display: flex;
+    align-items: center; /* vertically center the icon and text */
+}
 
 /*** Service Start ***/
 .service .service-item {
@@ -513,8 +527,6 @@
 .service .service-item .service-content .service-content-inner {
     transition: 0.5s;
 }
-
-
 
 /*** Service End ***/
 
