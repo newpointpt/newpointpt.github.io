@@ -509,24 +509,12 @@
     z-index: 3;
 }
 
-.service .service-item:hover .service-content::before {
-    background: rgba(21, 185, 217, .5);
-    height: 100%;
-}
 
 .service .service-item .service-content .service-content-inner {
     transition: 0.5s;
 }
 
 
-.service .service-item:hover .service-content .service-content-inner {
-    position: relative;
-    color: var(--bs-white) !important;
-    z-index: 9;
-}
-.service .service-item:hover .service-content .service-content-inner h5 {
-    color: var(--bs-secondary);
-}
 
 /*** Service End ***/
 
